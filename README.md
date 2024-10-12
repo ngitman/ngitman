@@ -2,10 +2,20 @@
 Check out my website at: <a href="https://www.nicholasgitman.com">nicholasgitman.com</a>
 <hr/>
 <h3>My personal projects:</h3>
-*mycronation (Estimated Completion January 2025)
-**A government dashboard simulation for those interested in government simulation roleplay.
-*SBEngaged Event Raffle Auto-Drawer
-**Picks a randomly selected event attendee from SBEngaged (CampusLabs) for a raffle draw. It is being built for the Russian Corner Club at Stony Brook (where I am the Event Coordinator).
+<ul>
+  <li>mycronation (Estimated Completion January 2025)</li>
+  <ul>
+    <li>A government dashboard simulation for those interested in government simulation roleplay.</li>
+  </ul>
+  <li>SBEngaged Event Raffle Auto-Drawer</li>
+  <ul>
+    <li>Picks a randomly selected event attendee from SBEngaged (CampusLabs) for a raffle draw. It is being built for the Russian Corner Club at Stony Brook (where I am the Event Coordinator).</li>
+  </ul>
+</ul>
 <h3>Research projects</h3>
-*Creating more comprehensive election precinct-level geodata incorporating census demographic data.
-**Part of the PoliTech VIP team under the Data Sourcing and Ensemble Generation subteam
+<ul>
+  <li>Creating more comprehensive election precinct-level geodata incorporating census demographic data.</li>
+  <ul>
+    <li>Part of the PoliTech VIP team under the Data Sourcing and Ensemble Generation subteam</li>
+  </ul>
+</ul>
