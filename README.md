@@ -1,11 +1,15 @@
 ## My name is Nicholas Gitman
 Check out my website at: <a href="https://www.nicholasgitman.com">nicholasgitman.com</a>
 <hr/>
-<h3>My personal projects:</h3>
+<h3>My personal projects queue ("I'll get to them eventually"):</h3>
 <ul>
   <li>mycronation (Estimated Completion January 2025)</li>
   <ul>
     <li>A government dashboard simulation for those interested in government simulation roleplay.</li>
+  </ul>
+  <li>SBU Hillel Quick Authentication (Estimated Completion late November, early December 2024)</li>
+  <ul>
+    <li>Creating a quicker way for lounge attendees to scan in without having to constantly fill out the sign-in paper, and digitizing those records on the fly, eliminating the need for manual data entry. Additionally, will provide data analysis and visualization metrics (but not on first release).</li>
   </ul>
 </ul>
 <h3>Research projects</h3>
