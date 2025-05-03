@@ -1,25 +1,22 @@
-## My name is Nicholas Gitman
-Check out my website at: <a href="https://www.nicholasgitman.com">nicholasgitman.com</a>
-<hr/>
-<h3>My personal projects queue ("I'll get to them eventually"):</h3>
-<ul>
-  <li>mycronation (Estimated Completion January 2025)</li>
-  <ul>
-    <li>A government dashboard simulation for those interested in government simulation roleplay.</li>
-  </ul>
-  <li>SBU Hillel Quick Authentication (Estimated Completion late November, early December 2024)</li>
-  <ul>
-    <li>Creating a quicker way for lounge attendees to scan in without having to constantly fill out the sign-in paper, and digitizing those records on the fly, eliminating the need for manual data entry. Additionally, will provide data analysis and visualization metrics (but not on first release).</li>
-  </ul>
-</ul>
-<h3>Research projects</h3>
-<ul>
-  <li>Creating more comprehensive election precinct-level geodata incorporating census demographic data.</li>
-  <ul>
-    <li>Part of the PoliTech VIP team under the Data Sourcing and Ensemble Generation subteam</li>
-  </ul>
-  <li>PoliTech Data Management Portal</li>
-  <ul>
-    <li>Designed to rapidly accelerate data sourcing operations by removing the need to search for choropleth data manually.</li>
-  </ul>
-</ul>
+# Nicholas Gitman
+*Check out my website at: [https://www.nicholasgitman.com](nicholasgitman.com)*<br/>
+Based out of New York City and Boston, MA
+## Education
+Stony Brook University<br/>
+B.S. in Computer Science & Applied Mathematics and Statistics<br/>
+Class of 2026
+## Current Roles
+* Incoming Software Developer Intern @ Amazon Web Services
+  * Part of Elastic Block Store (EBS) team
+* Political Informatics Research Assistant & Subteam Lead @ PoliTech
+  * Affiliated with Stony Brook Univeristy, PoliTech is a multidisciplinary vertically integrated project focused on analyzing redistricting and combatting gerrymandering.
+* DJ, Stony Brook Campus Life Centers
+  * Wannabe techbro?
+## What I'm working on:
+* Academic assignments
+  * For the most part, this is my primary focus
+* PoliTech Data Sourcing System
+  * Utilizing the Redistricting Hub API to automatically retrieve and filter necessary GIS data
+  * Integrating with the Automatic Redistricting System (ARS) to keep GIS data updated on a persistent basis.
+ * mycronation
+  * Cool little government simulator I built, pertains to some stuff I did in high school that I thought would be cool to automate and enhance my fullstack skills
