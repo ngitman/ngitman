@@ -7,6 +7,7 @@
 </a>
 
 <p>
+  <img src="https://img.shields.io/badge/Open%20to-Software%20Roles-22C55E?style=for-the-badge&logoColor=white" alt="Open to software roles" />
   <a href="https://www.nicholasgitman.com">
     <img src="https://img.shields.io/badge/Website-nicholasgitman.com-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
@@ -47,4 +48,4 @@
 
 ---
 
-<div align="center"><sub>🎧 Off the clock, I DJ — bookable for private gigs in the Boston area (details on my <a href="https://www.nicholasgitman.com">site</a>). Let's connect!</sub></div>
+<div align="center"><sub>🎧 Off the clock, I DJ — bookable for private gigs in Boston, NYC & Long Island (details on my <a href="https://www.nicholasgitman.com">site</a>). Let's connect!</sub></div>
